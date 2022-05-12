@@ -10,6 +10,5 @@
 
 知识点：Socket, RSA加密，HILL加密，魔改AES加密
 
-wp：DASCTFxSU-RE-wp
+wp：[DASCTFxSU-RE-wp](https://yuxiazhengye.co/2022/05/11/DASCTFxSU-RE-wp/)
 
-# 
