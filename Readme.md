@@ -12,3 +12,11 @@
 
 wp：[DASCTFxSU-RE-wp](https://yuxiazhengye.co/2022/05/11/DASCTFxSU-RE-wp/)
 
+
+
+#### NaCl 题目等级：A
+
+知识点：恢复栈帧（采用R15当做栈指针）
+
+wp：[*CTF_RE_wp](https://yuxiazhengye.co/2022/04/20/starCTF%E9%80%86%E5%90%91wp/)
+
